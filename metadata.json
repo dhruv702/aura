@@ -1,0 +1,6 @@
+{
+  "name": "EduAura",
+  "description": "Open educational content platform where anyone can create an account and freely upload or study video lectures, files, and web articles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
